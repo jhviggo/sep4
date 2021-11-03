@@ -2,10 +2,11 @@
 This is the overall board for the SEP4 project.
 
 ## New User Stories
-When creating new user stores, add an [Issue](https://github.com/jhviggo/sep4/issues/new) and set the label based on which team is responsible for completing it.
+When creating new user stores, add an [Issue](https://github.com/jhviggo/sep4/issues/new) and set the Project field to the SCRUM board. You can also set the label based on which team is responsible for completing it.
 If you know which Sprint it belongs in, then add a Milestone with the given sprint name - otherwise just leave it blank.
 
 If you want to specify what kind of issue it is (User Story, Task or Subtask) then you can also add that as a label.
+![image](https://user-images.githubusercontent.com/8568547/140040314-16911278-8c2f-4b85-83f1-493d68b3f017.png)
 
 ## Linking to stories
 When you create a merge request in you team repository, you can link directly to the issues with the prefix `GH-`, so issue 5 would be `GH-5`.
