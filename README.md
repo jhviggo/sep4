@@ -8,6 +8,9 @@ If you know which Sprint it belongs in, then add a Milestone with the given spri
 If you want to specify what kind of issue it is (User Story, Task or Subtask) then you can also add that as a label.
 ![image](https://user-images.githubusercontent.com/8568547/140040314-16911278-8c2f-4b85-83f1-493d68b3f017.png)
 
+## Planning poker
+When estimating a Task/Subtask you can edit the title of the task to reflect the estimate e.g. `Add cool feature` -> `Add cool feature (5)`
+
 ## Linking to stories
 When you create a merge request in you team repository, you can link directly to the issues with the prefix `GH-`, so issue 5 would be `GH-5`.
 
