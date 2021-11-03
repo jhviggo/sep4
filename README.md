@@ -20,3 +20,12 @@ GH-16
 I added some cool features in the controller
 ```
 
+## Sub-tasks
+Github doesn't really have subtasks but you can link issues. If we want we can have labels for User Story, Task and Subtask
+So in the subtasks you can add a new issue as shown below. When writing # and a number, you link to an issue. So this would be linked to issue 1
+```
+Task: add front page
+
+Subtask of #1
+...
+```
