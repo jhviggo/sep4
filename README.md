@@ -1,5 +1,5 @@
 # SCRUM backlog and board repository
-This is the overall board for the SEP4 project.
+This is the overall SCRUM board for the SEP4 project.
 
 ## New User Stories
 When creating new user stores, add an [Issue](https://github.com/jhviggo/sep4/issues/new) and set the Project field to the SCRUM board. You can also set the label based on which team is responsible for completing it.
